@@ -1,0 +1,2 @@
+# Face-Detection-Door-lock
+In our regular life, we always worry about security of our house &amp; expensive goods. Because it is easy to break any simple lock for thief. Which lock become open by key, this type of lock can’t give us proper security. The thief can open this type lock very easily. As a result we lost everything. So I plan to develop a system which become IoT base and give us a solution of this type of problems of door lock. I made a IoT base security system that helps us with very effectively called “FACE DETECTION DOOR LOCK WITH HOME AUTOMATION”.
